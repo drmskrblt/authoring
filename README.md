@@ -8,15 +8,15 @@
 - [X] [Tables](#tables)
 
 ## External Link
-[GitHub Documentation](https://help.github.com/en)
+View [GitHub Documentation](https://help.github.com/en)  
 
 ## Internal Link
 
-[Images-Folder](images/logo.png)  
+Go to [Images-Folder](images/)  
 
 ## Images
 
-![logo](https://user-images.githubusercontent.com/40964447/214599588-d6aa0518-5c46-46fd-851a-999947e04072.png)
+![logo](images/logo.png)
 
 
 ## Emojis
@@ -24,6 +24,6 @@
 
 ## Tables
 | names | class |
-| --- | --- |
+| :--- | :--- |
 | na | 1 |
 | me | 2 |
